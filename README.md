@@ -1,5 +1,5 @@
 ### Hi there, im Ibrahim 👋
-<h3 align="left">A passionate FullStact Javascript Developer from Lagos, Nigeria.</h3>
+<h6 align="left">A passionate FullStact Javascript Developer from Lagos, Nigeria.</h6>
 
 
 
