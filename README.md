@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h3 align="center">A passionate FullStact Javascript Developer from Lagos, Nigeria.</h3>
+<h3 align="left">- A passionate FullStact Javascript Developer from Lagos, Nigeria.</h3>
 
 
 
